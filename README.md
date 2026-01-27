@@ -10,10 +10,10 @@ This tool provides fast and accurate port scanning with a clean graphical interf
 ## 🖥️ Screenshots
 
 ### 🏠 Main Interface
-![GUI Home](screenshots/gui_home.png)
+![GUI Home](/gui_home.png)
 
 ### 🔍 Scan in Progress
-![Scan Running](screenshots/scan_running.png)
+![Scan Running](/scan_running.png)
 
 ---
 
@@ -48,12 +48,14 @@ This tool provides fast and accurate port scanning with a clean graphical interf
 
 ```bash
 pip install -r requirements.txt
-▶️ Usage
+
+
+## ▶️ Usage
 Run the main file:
 
-bash
-Copy code
+```bash
 python main.py
+
 ✅ The GUI will open automatically after running the file.
 
 🗄️ Database Information
