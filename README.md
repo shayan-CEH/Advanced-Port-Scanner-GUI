@@ -48,7 +48,7 @@ This tool provides fast and accurate port scanning with a clean graphical interf
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## ▶️ Usage
 Run the main file:
