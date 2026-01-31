@@ -44,7 +44,14 @@ This tool provides fast and accurate port scanning with a clean graphical interf
 ## 📦 Installation
 
 1. Clone or download the repository
-2. Install required libraries:
+```bash
+git clone https://github.com/shayan-CEH/Advanced-Port-Scanner-GUI.git
+```
+2. change directory
+```bash
+cd Advanced-Port-Scanner-GUI
+  ```
+3. Install required libraries:
 
 ```bash
 pip install -r requirements.txt
@@ -54,7 +61,7 @@ pip install -r requirements.txt
 Run the main file:
 
 ```bash
-python main.py
+python port_scanner4.py
 ```
 
 ✅ The GUI will open automatically after running the file.
