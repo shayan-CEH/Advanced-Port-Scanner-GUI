@@ -67,7 +67,7 @@ python port_scanner4.py
 ✅ The GUI will open automatically after running the file.
 
 
-##🗄️ Database Information
+## 🗄️ Database Information
 The database file (.db) is NOT uploaded to GitHub
 
 It is created automatically on the user's system
@@ -76,10 +76,10 @@ Used only for storing local scan history
 
 Ensures privacy and security
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This tool is created for educational and ethical testing purposes only.
 Do NOT use it on systems or networks you do not own or have permission to test.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Shayan
 Cybersecurity Enthusiast | Ethical Hacker | Python Developer
