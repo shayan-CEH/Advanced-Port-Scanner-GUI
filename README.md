@@ -81,5 +81,5 @@ This tool is created for educational and ethical testing purposes only.
 Do NOT use it on systems or networks you do not own or have permission to test.
 
 ## 👨‍💻 Author
-Shayan
+## SHAYAN
 Cybersecurity Enthusiast | Ethical Hacker | Python Developer
